@@ -23,6 +23,3 @@ despues de realizar dicha accion. Un ejemplo de esto seria los posibles casos po
 4.Prescriptivo: por medio de este tipo buscamos la respuesta a la pregunta que debo hacer?, donde buscamos proporcionar posibles acciones 
 o recomendaciones que nos ayuden en el plan de ejecucion. Un ejemplo de esto seria las posibles formas de distribucion de cada puesto de 
 trabajo.
-
-image.png
-
