@@ -3,3 +3,19 @@ Dtaos: se puede considerar como un hecho en bruto, es decir, no interpretado o n
 Informacion: Son aquellos datos ya depurados y tranformados que generan una relacion entre si.
 
 Conocimiento: Es quello que podemos lograr con la informacion ya estipuladas que adquirimos con la experiencia y practica.
+
+
+TIPOS DE ANALISIS DE DATOS
+
+1.Descriptivo: por medio de este tipo damos solucion a la pregunta de que sucedio?, entendiendo asi el motivo por el cual se dio la accion.
+un ejemplo de este seria como deberia distribuir los puestos de trabajo en un grupo de empleados.
+
+2.Diagnostico: por medio de este tipo buscamos la respuesta a la pregunta de por que sucedio?, explicando asi la forma en la que presento
+la accion. Un ejemplo de este seria la razon por la cual se busca distribuir los puestos de trabajo.
+
+3.Predictivo: por medio de este tipo buscamos la respuesta a la pregunta que sucedera?, donde nos mostrara una suposicion de lo que podria
+despues de realizar dicha accion. Un ejemplo de esto seria los posibles casos posteriores a la distribucion de dichos puestos de trabajo.
+
+4.Prescriptivo: por medio de este tipo buscamos la respuesta a la pregunta que debo hacer?, donde buscamos proporcionar posibles acciones 
+o recomendaciones que nos ayuden en el plan de ejecucion. Un ejemplo de esto seria las posibles formas de distribucion de cada puesto de 
+trabajo.
